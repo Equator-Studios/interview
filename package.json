@@ -1,0 +1,22 @@
+{
+  "name": "equator-tech-interview",
+  "version": "1.0.0",
+  "description": "The template for the Equator job interview (09/2024)",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.25.6",
+    "@babel/parser": "^7.25.6",
+    "@babel/traverse": "^7.25.6",
+    "@babel/types": "^7.25.6",
+    "destam": "^0.3.2",
+    "destam-dom": "^0.8.7",
+    "vite": "^5.4.7"
+  }
+}
