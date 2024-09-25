@@ -6,7 +6,7 @@ npm install
 npm run dev
 ```
 
-The URL to correct to using the browser will be visible on the terminal.
+The URL to connect to using the browser will be visible on the terminal.
 
 ## Links
 - https://github.com/Nefsen402/destam-dom
